@@ -18,7 +18,7 @@
    "is_query_report": 0,
    "label": "Masters",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Card Break"
   },
   {
@@ -27,7 +27,7 @@
    "label": "Properties",
    "link_to": "Property",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -36,7 +36,7 @@
    "label": "Unit Type",
    "link_to": "Unit Type",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -45,7 +45,7 @@
    "label": "Checkup Area",
    "link_to": "Checklist Checkup Area",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -54,7 +54,7 @@
    "label": "Guard Shift",
    "link_to": "Guard Shift",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -63,7 +63,7 @@
    "label": "Key Set",
    "link_to": "Key Set",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "only_for": "",
    "type": "Link"
   },
@@ -73,7 +73,7 @@
    "label": "Tool Item Set",
    "link_to": "Tool Item Set",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "only_for": "",
    "type": "Link"
   },
@@ -83,7 +83,7 @@
    "label": "Oursource Category",
    "link_to": "Outsourcing Category",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -92,7 +92,7 @@
    "label": "Property Amenity",
    "link_to": "Property Amenity",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -101,7 +101,7 @@
    "label": "Meter",
    "link_to": "Meter",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -109,7 +109,7 @@
    "is_query_report": 0,
    "label": "Documents",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "only_for": "",
    "type": "Card Break"
   },
@@ -119,7 +119,7 @@
    "label": "Lease",
    "link_to": "Lease",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -128,7 +128,7 @@
    "label": "Keys Sets",
    "link_to": "Key Set Detail",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "only_for": "",
    "type": "Link"
   },
@@ -138,7 +138,7 @@
    "label": "Tool Item Record",
    "link_to": "Tool Item Record",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "only_for": "",
    "type": "Link"
   },
@@ -148,7 +148,7 @@
    "label": "Daily Checklist",
    "link_to": "Daily Checklist",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -157,7 +157,7 @@
    "label": "Exit",
    "link_to": "Exit",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -166,7 +166,7 @@
    "label": "Meter Reading",
    "link_to": "Meter Reading",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -175,7 +175,7 @@
    "label": "Insurance",
    "link_to": "Insurance",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -184,7 +184,7 @@
    "label": "Outsourcing Attendance",
    "link_to": "Outsourcing Attendance",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -193,7 +193,7 @@
    "label": "Security Attendance",
    "link_to": "Security Attendance",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -201,7 +201,7 @@
    "is_query_report": 0,
    "label": "Settings",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Card Break"
   },
   {
@@ -210,7 +210,7 @@
    "label": "Property Management Settings",
    "link_to": "Property Management Settings",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -218,7 +218,7 @@
    "is_query_report": 0,
    "label": "Reports and Analytics",
    "link_type": "DocType",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Card Break"
   },
   {
@@ -227,7 +227,7 @@
    "label": "Outsourcing Attendance",
    "link_to": "Outsourcing Attendance",
    "link_type": "Report",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -236,7 +236,7 @@
    "label": "Security Attendance",
    "link_to": "Security Attendance Report",
    "link_type": "Report",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -245,7 +245,7 @@
    "label": "Security Deposit",
    "link_to": "Security Deposit",
    "link_type": "Report",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -254,7 +254,7 @@
    "label": "Debtors Report",
    "link_to": "Debtors Report",
    "link_type": "Report",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -263,7 +263,7 @@
    "label": "Creditors Report",
    "link_to": "Creditors Report",
    "link_type": "Report",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   },
   {
@@ -272,7 +272,7 @@
    "label": "Property Status",
    "link_to": "Property Status",
    "link_type": "Report",
-   "onboard": 0,
+   "onboard": 1,
    "type": "Link"
   }
  ],
