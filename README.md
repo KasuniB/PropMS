@@ -1,8 +1,6 @@
 <div align="center">
-    <img src="https://aakvatech.com/wp-content/uploads/2020/05/LOGO.png" height="128">
-    <h2>Aakvatech's Property Management Solution Powered on ERPNext</h2>
-
-[https:/aakvatech.com](https://aakvatech.com)
+    
+    <h2>Property Management Solution Powered on ERPNext</h2>
 
 </div>
 
